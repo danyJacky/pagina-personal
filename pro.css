@@ -27,7 +27,7 @@ h1 {
 }
 
 .textos {
-    position: absolute;
+    position: relative;
     display: inline-block;
     text-align: center;
     overflow:hidden;
