@@ -35,8 +35,10 @@ body {
     height: auto;
     display: block;
     margin: 0;
-    
- 
+}
+
+.imagen-portada {
+   width: 100% ;
 }
 
 .elementos-de-portada {
