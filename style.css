@@ -1,0 +1,278 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 22px;
+    color: #2a2929;
+}
+
+/* Elementos de barra fija superior..........................................................*/
+.barra-fija {
+    position: sticky;
+	top: 0;
+    background-color:#fff;
+    margin-top: 0;
+    height: 80px;
+    padding-top: 10px;
+    z-index: 100;
+}
+
+.items-barra{
+    width: 100px;
+    display: inline-block;
+    color: #4E31AA;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+/*Elementos de imagen de portada................................................................*/
+.portada {
+    max-width: 100%;
+    height: 300px;
+    background-color: #554cb5;  
+}
+
+.portada-imagen {
+    width: 700px;
+    height: 400px;
+    background-color:#fff;
+    position: absolute;
+    right: 605px;
+    top: 200px;
+    line-height: 1;
+    border-style: solid;
+    border-color: #9174ef;
+}
+
+.imagen-portada {
+   margin-left: 300px;
+   position: absolute;
+   right: 50px;
+   top: 25px;
+}
+
+h1 {
+    font-family: 'Suez One', serif;
+    color:#4E31AA;
+    font-size: 70px;
+    text-align: center;
+    width: 50%;
+    margin-top: 60px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #5e44b3;
+    text-align: center;
+    width: 50%;
+    margin-top: 50px;
+}
+
+.segunda-seccion {
+    background-color: #fff;
+    height: 300px;
+    margin-top: 230px;
+}
+
+.redes {
+    height: 30px;
+    width: 30px;
+    margin: 100px 70px 50px;
+}
+
+.tercera-seccion {
+    background-color:#ECF2FF;
+    height: 716px;
+}
+
+.espacio-habilidades {
+    height: 100px;
+    background-color:#ECF2FF;
+}
+
+.skills {
+    height: 110px;
+    width: 110px;
+    margin-top: 40px;
+}
+
+.altura { 
+    height: 200px;
+}
+
+.margen {
+    margin-top: 200px;
+}
+
+.borde {
+    border-style: solid;
+    border-color: #fff;
+    border-width: 3px;
+    border-radius: 3%;
+}
+
+.uno {
+    background-color: #917FB3;
+}
+
+.dos {
+    background-color:#fff;
+}
+
+.tres {
+    background-color: #655DBB;
+}
+
+.cuatro {
+    background-color:#BFACE2 ;
+}
+
+.cinco{
+    background-color: #655DBB;
+}
+
+.seis {
+    background-color: #BFACE2; 
+}
+
+.siete {
+    background-color:#917FB3;
+}
+
+.ocho {
+    background-color: #fff;
+}
+
+.subtitulos {
+    font-size: 30px;
+    color: #5e44b3;
+    text-align: center;
+}
+
+.margen-b {
+    margin-bottom: 60px;
+}
+
+.espacio-experiencia {
+    height: 70px;
+    margin-bottom: 0;
+    margin-top: 50px;
+}
+
+.experiencia {
+    height: 600px;
+    text-align:left;
+    line-height: 2;
+    display:inline;
+}
+
+.portafolio {
+    height: 1060px;
+    background-color: #ECF2FF;
+    margin-top: 100px;
+    padding-top: 80px;
+}
+
+li {
+    
+}
+
+ul {
+    padding-left: 80px;
+    display: inline-block;
+}
+
+.lista-uno {
+    width: 46%;
+   
+}
+
+.lista-dos {
+    width: 48%;
+    position: absolute;
+    right: 30px;
+    top: 1963px;
+    border-style:none none none dashed;
+    border-width: 5px;
+    border-color: #4E31AA;
+}
+
+h3 {
+    color: #5e44b3;
+    font-size: 28px;
+
+}
+
+.bd-placeholder-img {
+    height:0px;
+}
+
+.col {
+    padding: 10px 20px 10px;
+}
+
+.btn {
+    width: 30%;
+    margin-bottom: 20px;
+}
+
+.boton-contacto {
+    margin-top: 60px;
+}
+
+.espacio-portafolio {
+    height: 50px;
+}
+
+.contacto {
+    height: 400px;
+    margin: 60px 500px 60px;
+}
+
+.contacto-subtitulo {
+    margin-left: 430px;
+    margin-top: 100px;
+}
+
+/*Pie de pagina..............................................................................................*/
+.piedepagina {
+    background-color:#ECF2FF;
+    height: 300px;
+    padding-top: 25px;
+    margin-top: 90px;
+}
+
+.link-pie-pagina {
+    color: #4E31AA;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 10px 10px 10px 10px;
+}
+
+.derechos {
+    color: #4E31AA;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+    
+
+    
+      
